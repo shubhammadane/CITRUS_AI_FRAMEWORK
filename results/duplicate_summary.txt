@@ -1,0 +1,13 @@
+CITRUSAI-X - EXACT DUPLICATE DETECTION REPORT
+============================================================
+
+Dataset Path       : C:\Users\ytkfd\Desktop\CITRUS_AI_FRAMEWORK\rgb
+Total Images       : 42447
+Unique Images      : 42447
+Duplicate Groups   : 0
+Duplicate Files    : 0
+Extra Duplicates   : 0
+Corrupted Images   : 0
+Duplicate Percent  : 0.00%
+
+No exact duplicate images found.
